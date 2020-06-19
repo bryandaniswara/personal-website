@@ -1,33 +1,29 @@
 module.exports = {
 	siteMetadata: {
-		title: `Novela by Narative`,
-		name: `Narative`,
-		siteUrl: `https://novela.narative.co`,
-		description: `This is my description that will be used in the meta tags and important for search results`,
+		title: `bryandaniswara's blog`,
+		name: `bryandaniswara`,
+		siteUrl: `https://bryandaniswara.xyz`,
+		description: `bryandaniswara's thougts on technology, programming, and life`,
 		hero: {
-			heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+			heading: `Hi, I'm Bryan Daniswara. Front-end web developer`,
 			maxWidth: 652,
 		},
 		social: [
 			{
 				name: `twitter`,
-				url: `https://twitter.com/narative`,
+				url: `https://twitter.com/bryandaniswara`,
 			},
 			{
 				name: `github`,
-				url: `https://github.com/narative`,
+				url: `https://github.com/bryandaniswara`,
 			},
 			{
 				name: `instagram`,
-				url: `https://instagram.com/narative.co`,
+				url: `https://instagram.com/bryan.daniswara`,
 			},
 			{
 				name: `linkedin`,
-				url: `https://www.linkedin.com/company/narative/`,
-			},
-			{
-				name: `dribbble`,
-				url: `https://dribbble.com/narativestudio`,
+				url: `https://linkedin.com/in/bryandaniswara`,
 			},
 		],
 	},
@@ -48,11 +44,10 @@ module.exports = {
 		{
 			resolve: `gatsby-plugin-manifest`,
 			options: {
-				name: `Novela by Narative`,
-				short_name: `Novela`,
+				name: `bryandaniswara's blog`,
 				start_url: `/`,
-				background_color: `#fff`,
-				theme_color: `#fff`,
+				background_color: `#323232`,
+				theme_color: `#323232`,
 				display: `standalone`,
 				icon: `src/assets/favicon.png`,
 			},
