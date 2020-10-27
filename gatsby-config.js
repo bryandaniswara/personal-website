@@ -2,10 +2,10 @@ module.exports = {
 	siteMetadata: {
 		title: `bryandaniswara's blog`,
 		name: `bryandaniswara`,
-		siteUrl: `https://bryandaniswara.xyz`,
+		siteUrl: `https://bryandaniswara.com`,
 		description: `bryandaniswara's thougts on technology, programming, and life`,
 		hero: {
-			heading: `Hi, I'm Bryan Daniswara. Front-end web developer`,
+			heading: `Hi, I'm Bryan Daniswara. Fullstack Javascript Developer`,
 			maxWidth: 652,
 		},
 		social: [
